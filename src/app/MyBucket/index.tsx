@@ -5,8 +5,8 @@ import Products from "../../components/Products.tsx";
 import greenSalad from "../../assets/greenSalad.png";
 import steak from "../../assets/steak.png";
 import mixedSalad from "../../assets/mixedSalad.png";
-import cake from "../../assets/cake.png";
 import FreshVegetable from "../../assets/FreshVegetable.png";
+import cake from "../../assets/cake.png"
 
 export const MyBucket = () => {
   const productsList = [
